@@ -1,0 +1,8 @@
+# Ignore build directory
+build/
+
+# Ignore .vscode directory
+.vscode/
+
+# Ignore .gradle directory
+.gradle/
